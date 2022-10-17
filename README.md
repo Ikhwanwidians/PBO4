@@ -1,2 +1,2 @@
-# HeroMobilelegends.java adalah super class
+# HeroMobileLegends.java adalah super class
  
